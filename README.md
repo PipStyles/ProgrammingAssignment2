@@ -1,3 +1,13 @@
+### Pipstyles' Programming Assignment 2 submission
+
+It's ok I guess. I don't really like this anti-pattern of a 
+function which caches and sort of "knows" about what it's caching 
+i.e. that it's an inverse of the matrix. Should really go with 
+a generic caching function/service with an extended version of 
+solve (much like what we have) which uses the generic cache service.
+
+(RD Peng's original readme from here...)
+
 ### Introduction
 
 This second programming assignment will require you to write an R
